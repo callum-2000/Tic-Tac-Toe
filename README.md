@@ -1,4 +1,4 @@
-<h1>4-digit-bruteforce</h1>
+<h1>Tic-Tac-Toe</h1>
 
 <h2>Description</h2>
 Simple single-player tic-tac-toe game using random module for computers' move.
